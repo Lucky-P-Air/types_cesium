@@ -19,7 +19,7 @@ Add to `package.json`:
 ```json
 {
   "devDependencies": {
-    "@platypii/cesium": "^1.103.0",
+    "@Lucky-P-Air/cesium": "^1.105.1",
   }
 }
 ```
